@@ -1,10 +1,10 @@
 # 🌟 Adaptive Retrieval-Augmented Generation (Adaptive-RAG)
-This repository reproduces **my specific core contributions** to a larger 8-member project at **University of Paderborn** (Grade: **1.7**).
+This repository reproduces **my specific core contributions** to a larger 8-member project at **University of Paderborn** (Grade: **1.7**). The files are structured according to the contributions and does not represent the original repository structure of the project from university. All the contributions from other members are excluded.
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![ChromaDB](https://img.shields.io/badge/VectorDB-ChromaDB-orange.svg)](https://www.trychroma.com/)
 [![Ollama](https://img.shields.io/badge/Local%20LLM-Ollama-black.svg)](https://ollama.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 An advanced, self-tuning **Adaptive RAG Pipeline** featuring hybrid multi-source retrieval, intelligent query classification, interchangeable local/cloud generation backends, and an evolutionary genome-based parameter optimization algorithm.
 
